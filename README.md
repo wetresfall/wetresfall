@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 ## JavaScript Algorithms and Data Structures (freeCodeCamp)
 ### https://github.com/wetresfall/freeCodeCamp/blob/main/JavaScript_Algorithms_and_Data_Structures/README.md
 
+## JavaScript (Code Basics)
+### https://github.com/wetresfall/hexlet-basics/tree/main/JavaScript
+
 ## Codewars
 ### https://github.com/wetresfall/Codewars
 [![codewars](https://www.codewars.com/users/wetresfall/badges/large "codewars")](https://www.codewars.com/users/wetresfall)
