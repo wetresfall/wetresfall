@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ### https://github.com/wetresfall/Codewars
 [![codewars](https://www.codewars.com/users/wetresfall/badges/large "codewars")](https://www.codewars.com/users/wetresfall)
 
-# My stats:
+# My stats: <a href="https://github.com/wetresfall"><img src="https://komarev.com/ghpvc/?username=wetresfall&style=for-the-badge&color=blue" alt="" /></a>
 
 <p align="center">
   <a href="https://github.com/wetresfall">
