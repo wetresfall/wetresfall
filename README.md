@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 ## JavaScript (Code Basics)
 ### https://github.com/wetresfall/hexlet-basics/tree/main/JavaScript
 
+## Introduction to Programming, JavaScript (Hexlet)
+### https://github.com/wetresfall/hexlet/tree/main/introduction_to_programming
+
 ## Codewars
 ### https://github.com/wetresfall/Codewars
 [![codewars](https://www.codewars.com/users/wetresfall/badges/large "codewars")](https://www.codewars.com/users/wetresfall)
