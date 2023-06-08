@@ -82,6 +82,6 @@ Here are some ideas to get you started:
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wetresfall&theme=default" />
   </a>
   <a href="https://github.com/wetresfall">
-    <img src="github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wetresfall&langs_count=10&layout=default&card_width=700&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wetresfall&langs_count=10&layout=default&card_width=700&theme=transparent" />
   </a>
 </p>
