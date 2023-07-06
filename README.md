@@ -50,24 +50,14 @@ Here are some ideas to get you started:
 
 # My trainee projects here:
 
+## The Rolling Scopes School
+### https://github.com/wetresfall/rolling-scopes-school/blob/gh-pages/README.md
+
 ## Responsive Web Design (freeCodeCamp)
 ### https://github.com/wetresfall/freeCodeCamp/blob/gh-pages/Responsive_Web_Design/README.md
 
 ## HTML Academy
-### https://github.com/wetresfall/htmlacademy/blob/gh-pages/intro-to-web-development/README.md
-### https://github.com/wetresfall/htmlacademy/blob/gh-pages/basic-html-css/README.md
-
-## The Rolling Scopes School
-### https://github.com/wetresfall/rolling-scopes-school/blob/gh-pages/README.md
-
-## JavaScript Algorithms and Data Structures (freeCodeCamp)
-### https://github.com/wetresfall/freeCodeCamp/blob/main/JavaScript_Algorithms_and_Data_Structures/README.md
-
-## JavaScript (Code Basics)
-### https://github.com/wetresfall/hexlet-basics/tree/main/JavaScript
-
-## Introduction to Programming, JavaScript (Hexlet)
-### https://github.com/wetresfall/hexlet/tree/main/introduction_to_programming
+### https://github.com/wetresfall/htmlacademy/blob/gh-pages/README.md
 
 ## Codewars
 ### https://github.com/wetresfall/Codewars
