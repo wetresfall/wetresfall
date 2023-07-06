@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 ## Responsive Web Design (freeCodeCamp)
 ### https://github.com/wetresfall/freeCodeCamp/blob/gh-pages/Responsive_Web_Design/README.md
 
+## HTML Academy
+### https://github.com/wetresfall/htmlacademy/blob/gh-pages/intro-to-web-development/README.md
+### https://github.com/wetresfall/htmlacademy/blob/gh-pages/basic-html-css/README.md
+
 ## The Rolling Scopes School
 ### https://github.com/wetresfall/rolling-scopes-school/blob/gh-pages/README.md
 
