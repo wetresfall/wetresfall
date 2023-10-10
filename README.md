@@ -4,7 +4,7 @@
 
 About:
 - 👋 I’m Jack Belnik (wetresfall)
-- 👀 I’m interested in Front-end Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript+React
 - 📫 How to reach me:
 <br><a href="https://www.linkedin.com/in/jack-belnik"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="css" width="40" height="40" alt="css" />&nbsp;</a>
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="sass" width="40" height="40" alt="sass" />&nbsp;</a>
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" title="less" width="40" height="40" alt="less" />&nbsp;</a>
-<a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;</a>
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40" alt="figma" />&nbsp;</a>
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="40" height="40" alt="git" />&nbsp;</a>
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="github" width="40" height="40" alt="github" />&nbsp;</a>
