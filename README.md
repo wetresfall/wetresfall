@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" title="less" width="40" height="40" alt="less" />&nbsp;</a>
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40" alt="figma" />&nbsp;</a>
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="40" height="40" alt="git" />&nbsp;</a>
-<a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="github" width="40" height="40" alt="github" />&nbsp;</a>
 <a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" width="40" height="40" alt="bash" />&nbsp;</a>
-<a href="https://github.com/wetresfall"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40" alt="vscode" />&nbsp;</a>
 
 # My trainee projects here:
 
